@@ -1,5 +1,5 @@
 === Acknowledge Me ===
-Contributors: Shows contributors to a Github repo
+Contributors: Shelob9
 Tags: github, contributors, acknowledgment, pods
 Donate link: http://pods.io
 Requires at least: 3.8.0
