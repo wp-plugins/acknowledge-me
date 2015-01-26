@@ -4,15 +4,14 @@ Tags: github, contributors, acknowledgment, pods
 Donate link: http://pods.io
 Requires at least: 3.8.0
 Tested up to: 4.1
-Stable tag: 0.1.2
+Stable tag: 0.1.4
 License: GPL v2+
 License URI: http://www.gnu.org/licenses/gpl-2.0.txt
 
 Shows contributors to a Github repo, retrieved via the GitHub API.
 
-
 == Description ==
-A Community Building Tool By [Pods](http://pods.io/pods).
+A Community Building Tool By [Pods](http://pods.io/pods)
 
 To output as HTML via PHP, use `echo acknowledge_me_display( $owner, $repo, $header_text = false, $total = 100 )` where `$owner` is the user name or organization name for the repo, and `$repo` is the repo name. Optionally add some header text or change the limit for the number of contributors.
 
